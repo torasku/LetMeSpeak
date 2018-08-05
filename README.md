@@ -1,4 +1,4 @@
-### LetMeSpeak
+### LetMeSpeak :speaker:
 
 #### Learning C# and .NET
 
