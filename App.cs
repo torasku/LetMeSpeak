@@ -30,7 +30,7 @@ namespace LetMeSpeak
 
             while (!escPressed)
             {
-                handleKeyPress.ExitProgramOnEscPress(e, escPressed);
+                //handleKeyPress.ExitProgramOnEscPress(e, escPressed); //TODO: handle Exception in HandleKeyPress
                 if(count > 0)
                 {
                     appSpeaker.SpeakByText("Ask me a new question please");

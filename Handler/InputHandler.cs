@@ -7,9 +7,11 @@ namespace LetMeSpeak
         private string input;
         private string output;
         private AppSpeaker appSpeaker;
+
         private const string weather = "weather";
         private const string date = "date";
         private const string time = "time";
+        private const string Benny = "benedicte";
 
         public InputHandler()
         {
@@ -44,6 +46,10 @@ namespace LetMeSpeak
             else if (input.Contains(time))
             {
                 outputString = "The time is" + handleTimeFormat(DateTime.Now);
+            }
+            else if (input.Contains(Benny))
+            {
+                outputString = "Benedicte is the cutest girl in the whole universe";
             }
             return outputString;
         }

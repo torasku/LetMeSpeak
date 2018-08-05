@@ -45,13 +45,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
-    <Compile Include="AppSpeaker.cs" />
-    <Compile Include="HandleKeyPress.cs" />
-    <Compile Include="IInputForm.cs" />
-    <Compile Include="InputForm.cs" />
-    <Compile Include="InputHandler.cs" />
-    <Compile Include="ISpeaker.cs" />
-    <Compile Include="Speaker.cs" />
+    <Compile Include="Speaker\AppSpeaker.cs" />
+    <Compile Include="Handler\HandleKeyPress.cs" />
+    <Compile Include="Input\IInputForm.cs" />
+    <Compile Include="Input\InputForm.cs" />
+    <Compile Include="Handler\InputHandler.cs" />
+    <Compile Include="Speaker\ISpeaker.cs" />
+    <Compile Include="Speaker\Speaker.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
