@@ -1,7 +1,2 @@
-C:\Users\torar\source\repos\LetMeSpeak\LetMeSpeak\bin\Debug\LetMeSpeak.exe.config
-C:\Users\torar\source\repos\LetMeSpeak\LetMeSpeak\bin\Debug\LetMeSpeak.exe
-C:\Users\torar\source\repos\LetMeSpeak\LetMeSpeak\bin\Debug\LetMeSpeak.pdb
 C:\Users\torar\source\repos\LetMeSpeak\LetMeSpeak\obj\Debug\LetMeSpeak.csprojAssemblyReference.cache
 C:\Users\torar\source\repos\LetMeSpeak\LetMeSpeak\obj\Debug\LetMeSpeak.csproj.CoreCompileInputs.cache
-C:\Users\torar\source\repos\LetMeSpeak\LetMeSpeak\obj\Debug\LetMeSpeak.exe
-C:\Users\torar\source\repos\LetMeSpeak\LetMeSpeak\obj\Debug\LetMeSpeak.pdb

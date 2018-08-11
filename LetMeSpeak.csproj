@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Speech" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
@@ -45,6 +46,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="Form\InputForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\InputForm.Designer.cs">
+      <DependentUpon>InputForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Speaker\AppSpeaker.cs" />
     <Compile Include="Handler\HandleKeyPress.cs" />
     <Compile Include="Input\IInputForm.cs" />
